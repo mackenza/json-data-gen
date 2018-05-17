@@ -1,0 +1,55 @@
+{
+    "eventFrequency": 1000,
+    "varyEventFrequency": true,
+    "repeatWorkflow": true,
+    "timeBetweenRepeat": 0,
+    "varyRepeatFrequency": false,
+    "stepRunMode": "random-pick-one",
+    "steps": [{
+            "config": [{
+                    "orderNum": "counter('orderid')",
+                    "orderDateTome": "now()",
+                    "customerId": "integer(1000,1100)",
+                    "totalAmount": "double(500,10000)",
+                    "orderLines": [
+                        "repeat(3)",
+                        {
+                            "productId": "alpha(4)",
+                            "quantity": "integer(1,10)",
+                            "price": "double(100,500)"
+                        }]
+                }],
+            "duration": 0
+        },{
+            "config": [{
+                "orderNum": "counter('orderid')",
+                "orderDateTome": "now()",
+                "customerId": "integer(1000,1100)",
+                "totalAmount": "double(2000,10000)",
+                "orderLines": [
+                    "repeat(5)",
+                    {
+                        "productId": "alpha(4)",
+                        "quantity": "integer(1,20)",
+                        "price": "double(100,500)"
+                    }]
+            }],
+            "duration": 0
+        }, {
+            "config": [{
+                "orderNum": "counter('orderid')",
+                "orderDateTome": "now()",
+                "customerId": "integer(1000,1100)",
+                "totalAmount": "double(3000,10000)",
+                "orderLines": [
+                    "repeat(7)",
+                    {
+                        "productId": "alpha(4)",
+                        "quantity": "integer(1,10)",
+                        "price": "double(100,500)"
+                    }]
+            }],
+            "duration": 10000
+        }]
+}
+

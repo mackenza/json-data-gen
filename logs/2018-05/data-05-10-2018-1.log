@@ -1,0 +1,415 @@
+{"timestamp":1525985429724,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985429722,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985429726,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985429725,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985431900,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525985431952,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525985433080,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525985433236,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525985434434,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985435245,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985435592,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985436613,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985438106,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985438270,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985438513,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985439763,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985440461,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985440905,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985440925,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985443404,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985443673,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985443727,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985444809,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985447109,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525985447142,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525985447290,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525985447292,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525985449479,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525985449604,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525985449683,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525985450158,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525985463694,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985463826,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985465799,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525985466249,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985467062,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985467238,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525985468399,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985470058,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525985470388,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525985470737,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985471134,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985472958,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985473800,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985474606,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985474945,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985476445,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985476578,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985477212,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985478707,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525985479701,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985480266,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985480826,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525985480833,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525985483499,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525985483578,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985484448,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525985492311,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985492309,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985492309,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985492310,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985582417,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985585191,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525985588886,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985591204,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985594962,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985597613,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985600665,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525985604259,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525985621343,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985624656,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525985627629,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985630023,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985633724,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985636866,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985639870,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525985642407,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525985659304,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985663315,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525985666890,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985669163,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985672597,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985675698,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985677987,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525985720244,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985720372,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525985720447,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985720556,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985720651,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985720727,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985720841,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985720915,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985721024,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985721105,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985721215,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985721317,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985721403,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985721503,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985721631,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985721715,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985721819,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985721921,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985722015,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985722129,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985722197,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985722287,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985722390,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985722459,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985722539,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985722642,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985722745,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985722849,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985722965,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985723067,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985723181,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985723278,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985723385,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985723459,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985723554,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985723635,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985723737,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985723806,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985723911,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985724006,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985724083,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985724207,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985724321,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985724426,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985724525,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985724593,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985724706,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985724787,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985724890,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985724996,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985725070,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985725173,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985725261,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985725341,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985725418,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985725515,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985725589,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985725708,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985725815,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985725931,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985726028,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985726136,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985726231,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985726326,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985726411,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985726528,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985726637,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985726742,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985726838,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985726910,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985727032,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985727124,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985727209,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985727335,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985727432,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985727549,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985727648,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985727757,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985727823,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985727905,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985728006,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985728113,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985728205,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985728301,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985728410,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985728512,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985728627,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985728737,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985728834,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985728931,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985729027,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985729117,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985729189,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985729286,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985729396,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985729468,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985729540,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985729628,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985729704,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985729772,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985729873,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985729941,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985730015,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985730081,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985730159,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985730285,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985730393,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985730514,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525985730607,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525985742303,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985742412,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525985742502,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985742581,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985742683,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985742790,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985742895,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985742973,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985743055,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985743133,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985743238,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985743309,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985743402,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985743496,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985743585,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985743670,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985743752,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985743867,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985743959,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985744037,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985744157,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985744269,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985744354,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985744453,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985744528,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985744617,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985744707,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985744808,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985744881,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985744998,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985745076,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985745158,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985745246,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985745361,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985745472,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985745544,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985745616,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985745689,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985745792,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985745896,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985746014,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985746113,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985746193,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985746287,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985746365,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985746450,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985746531,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985746606,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985746685,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985746797,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985746863,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985746983,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985747098,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985747197,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985747312,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985747397,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985747516,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985747603,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985747674,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985747758,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985747864,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985747949,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985748047,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985748116,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985748220,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985748315,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985748414,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985748489,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985748569,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985748687,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985748784,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985748884,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985748972,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985749046,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985749163,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985749270,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985749377,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985749483,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985749583,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985749669,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985749746,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985749853,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985749937,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985750022,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985750116,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985750233,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985750337,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985750448,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985750553,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985750665,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985750761,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985750845,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985750925,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985751031,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985751136,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985751250,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985751347,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985751428,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985751514,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985751618,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985751731,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985751809,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985751914,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985751985,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985752106,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985752200,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985752315,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985752389,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985752489,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985752568,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525985752653,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525985760512,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525985760623,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525985760720,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985760799,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985760865,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985760974,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985761090,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985761180,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985761270,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985761359,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985761440,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985761551,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985761635,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985761743,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985761818,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985761891,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985761977,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985762085,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985762172,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985762257,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985762352,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985762422,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985762503,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985762605,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985762684,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985762759,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985762849,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985762935,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985763006,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985763093,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985763198,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985763292,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985763400,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985763473,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985763571,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985763656,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985763737,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985763838,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985763921,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985764019,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985764108,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985764180,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985764291,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985764410,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985764482,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985764590,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985764731,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985764935,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985765034,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985765139,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985765217,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985765329,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985765418,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985765494,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985765597,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985765675,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985765758,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985765834,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985765933,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985766036,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985766145,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985766279,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985766411,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985766529,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985766611,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985766702,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985766816,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985766894,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985766984,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985767057,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985767150,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985767243,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985767364,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985767476,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985767557,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985767638,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985767746,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985767860,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985767965,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985768040,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985768155,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985768266,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985768349,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985768418,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985768511,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985768623,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985768697,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985768785,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985768886,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985768958,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985769026,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985769145,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985769225,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985769307,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985769383,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985769453,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985769539,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985769623,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985769724,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985769795,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985769865,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985769950,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985770042,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985770165,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985770284,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985770380,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985770492,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985770559,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985770648,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525985770748,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525985770819,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}

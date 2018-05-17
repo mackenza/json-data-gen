@@ -1,0 +1,17 @@
+{
+    "workflows": [{
+            "workflowName": "test",
+            "workflowFilename": "exampleWorkflow.json"
+        }],
+    "producers": [{
+        "type":"logger"
+    },
+    {
+        "type": "mqtt",
+        "broker.server": "tcp://localhost",
+        "broker.port": 1883,
+        "topic": "test",
+        "clientId": "LogEvent",
+        "qos": 2
+    }]
+}

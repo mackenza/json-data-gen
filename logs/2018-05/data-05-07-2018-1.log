@@ -1,0 +1,89 @@
+{"timestamp":1525720975148,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525720977460,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525720981382,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525720984850,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525720986955,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525720989665,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525720993435,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525720996325,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525721011640,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525721013884,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525721016928,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721020399,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721022935,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721026749,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721030115,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525721033292,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525721050172,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525721054173,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525721057800,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721060918,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721064658,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721067372,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721069901,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525721073346,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525721084616,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525721086905,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525721090731,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721093669,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721096852,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721100094,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721102106,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525721104266,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525721117661,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525721119759,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525721123051,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721126384,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721128487,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721131560,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721134882,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525721137905,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525721150777,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525721153771,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525721156088,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721159939,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721163028,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721166076,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721169149,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525721172283,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525721189561,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525721193234,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525721196476,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721198504,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721201202,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721204746,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721206872,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525721208977,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525721222741,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525721225309,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525721227800,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721230999,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721233154,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721235240,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721238167,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525721241225,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525721255456,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525721257846,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525721261680,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721263694,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721266793,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721269109,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721271363,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721273952,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525721277571,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525721295420,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525721299390,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525721302836,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721306381,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721310157,"system":"AUDIT","actor":"bob","action":"OPEN","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721312160,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721315053,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525721318829,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
+{"timestamp":1525721336893,"system":"BADGE","actor":"bob","action":"ENTER","objects":["Building 1"],"location":"45.5,44.3","message":"Entered Building 1"}
+{"timestamp":1525721339988,"system":"AD","actor":"bob","action":"LOGIN","objects":["workstation1"],"location":null,"message":"Logged in to workstation 1"}
+{"timestamp":1525721342030,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721344367,"system":"AUDIT","actor":"bob","action":"PRINT","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721347132,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721349670,"system":"AUDIT","actor":"bob","action":"COPY","objects":["/data/file1.txt","/share/mystuff/file2.txt"],"location":null,"message":"Printed /data/file1.txt"}
+{"timestamp":1525721353274,"system":"AD","actor":"bob","action":"LOGOUT","objects":["workstation1"],"location":null,"message":"Logged out of workstation 1"}
+{"timestamp":1525721356156,"system":"BADGE","actor":"bob","action":"EXIT","objects":["Building 1"],"location":"45.5,44.3","message":"Exited Building 1"}
